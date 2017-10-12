@@ -1,0 +1,19 @@
+#Wed Sep 06 17:12:13 IST 2017
+renamed.5=classes2.dex
+renamed.4=classes5.dex
+renamed.3=classes.dex
+renamed.2=classes4.dex
+renamed.1=classes3.dex
+renamed.0=classes6.dex
+base.5=C\:\\Users\\Mudit\\AndroidStudioProjects\\ud843-QuakeReport-starting-point\\ud843-QuakeReport-starting-point\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_7c09b20aaa8a0460ffad8b5fc7d15edc3c5b7d32
+base.4=C\:\\Users\\Mudit\\AndroidStudioProjects\\ud843-QuakeReport-starting-point\\ud843-QuakeReport-starting-point\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.3.0_f5ebe9d6cc0acc32c27dd1df1f67b3653b85ac4f
+base.3=C\:\\Users\\Mudit\\AndroidStudioProjects\\ud843-QuakeReport-starting-point\\ud843-QuakeReport-starting-point\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_7b6a7a16df1dfca29dc1f599238a102dd22ddec0
+base.2=C\:\\Users\\Mudit\\AndroidStudioProjects\\ud843-QuakeReport-starting-point\\ud843-QuakeReport-starting-point\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_c3e120f5ee6642028419d7ba877c30d58948fdb6
+base.1=C\:\\Users\\Mudit\\AndroidStudioProjects\\ud843-QuakeReport-starting-point\\ud843-QuakeReport-starting-point\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_9bd2ee71de7cb758ca4366fd325adb30d27481cd
+base.0=C\:\\Users\\Mudit\\AndroidStudioProjects\\ud843-QuakeReport-starting-point\\ud843-QuakeReport-starting-point\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.3.0_2c340ad14771e11e708e98a38a5c51cb73857ad8
+file.5=C\:\\Users\\Mudit\\AndroidStudioProjects\\ud843-QuakeReport-starting-point\\ud843-QuakeReport-starting-point\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_7c09b20aaa8a0460ffad8b5fc7d15edc3c5b7d32\\classes.dex
+file.4=C\:\\Users\\Mudit\\AndroidStudioProjects\\ud843-QuakeReport-starting-point\\ud843-QuakeReport-starting-point\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.3.0_f5ebe9d6cc0acc32c27dd1df1f67b3653b85ac4f\\classes.dex
+file.3=C\:\\Users\\Mudit\\AndroidStudioProjects\\ud843-QuakeReport-starting-point\\ud843-QuakeReport-starting-point\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_7b6a7a16df1dfca29dc1f599238a102dd22ddec0\\classes.dex
+file.2=C\:\\Users\\Mudit\\AndroidStudioProjects\\ud843-QuakeReport-starting-point\\ud843-QuakeReport-starting-point\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_c3e120f5ee6642028419d7ba877c30d58948fdb6\\classes.dex
+file.1=C\:\\Users\\Mudit\\AndroidStudioProjects\\ud843-QuakeReport-starting-point\\ud843-QuakeReport-starting-point\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_9bd2ee71de7cb758ca4366fd325adb30d27481cd\\classes.dex
+file.0=C\:\\Users\\Mudit\\AndroidStudioProjects\\ud843-QuakeReport-starting-point\\ud843-QuakeReport-starting-point\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.3.0_2c340ad14771e11e708e98a38a5c51cb73857ad8\\classes.dex

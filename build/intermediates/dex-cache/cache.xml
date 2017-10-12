@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mudit\.android\build-cache\dbe24e2e090c1ab7b32a53ed1194b716e56e12f6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\Mudit\AndroidStudioProjects\ud843-QuakeReport-starting-point\ud843-QuakeReport-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c3e120f5ee6642028419d7ba877c30d58948fdb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mudit\.android\build-cache\cdeaa48041efc98d44949154d6a7f8c47d748298\output\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\Mudit\AndroidStudioProjects\ud843-QuakeReport-starting-point\ud843-QuakeReport-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_f5ebe9d6cc0acc32c27dd1df1f67b3653b85ac4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mudit\AndroidStudioProjects\ud843-QuakeReport-starting-point\ud843-QuakeReport-starting-point\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Mudit\AndroidStudioProjects\ud843-QuakeReport-starting-point\ud843-QuakeReport-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_51f2bb97ba8ed1b60c0f76c5273c70fa65ab58e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mudit\.android\build-cache\bae4c7d4cb4daa03999a23c94b94f7415fa023ca\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\Mudit\AndroidStudioProjects\ud843-QuakeReport-starting-point\ud843-QuakeReport-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9bd2ee71de7cb758ca4366fd325adb30d27481cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mudit\.android\build-cache\cdeaa48041efc98d44949154d6a7f8c47d748298\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\Mudit\AndroidStudioProjects\ud843-QuakeReport-starting-point\ud843-QuakeReport-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7c09b20aaa8a0460ffad8b5fc7d15edc3c5b7d32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mudit\AndroidStudioProjects\ud843-QuakeReport-starting-point\ud843-QuakeReport-starting-point\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="22fe2a7c2ac2afcbef8ffdfbe48a1f4752905117">
+        <dex dex="C:\Users\Mudit\AndroidStudioProjects\ud843-QuakeReport-starting-point\ud843-QuakeReport-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c8cc510d415e57ce006279789072155a66dc28a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mudit\.android\build-cache\9e4cdff0539e0ba21ad6e648ee19b201bc19a967\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\Mudit\AndroidStudioProjects\ud843-QuakeReport-starting-point\ud843-QuakeReport-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7b6a7a16df1dfca29dc1f599238a102dd22ddec0\classes.dex" />
+    </item>
+
+</items>

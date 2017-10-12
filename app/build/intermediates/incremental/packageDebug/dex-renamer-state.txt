@@ -1,0 +1,7 @@
+#Wed Sep 06 17:13:51 IST 2017
+base.0=C\:\\Users\\Mudit\\AndroidStudioProjects\\ud843-QuakeReport-starting-point\\ud843-QuakeReport-starting-point\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_51f2bb97ba8ed1b60c0f76c5273c70fa65ab58e3
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Mudit\\AndroidStudioProjects\\ud843-QuakeReport-starting-point\\ud843-QuakeReport-starting-point\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c8cc510d415e57ce006279789072155a66dc28a0\\classes.dex
+base.1=C\:\\Users\\Mudit\\AndroidStudioProjects\\ud843-QuakeReport-starting-point\\ud843-QuakeReport-starting-point\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c8cc510d415e57ce006279789072155a66dc28a0
+file.0=C\:\\Users\\Mudit\\AndroidStudioProjects\\ud843-QuakeReport-starting-point\\ud843-QuakeReport-starting-point\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_51f2bb97ba8ed1b60c0f76c5273c70fa65ab58e3\\classes.dex
